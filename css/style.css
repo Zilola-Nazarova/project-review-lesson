@@ -1,0 +1,20 @@
+#main {
+    text-align: center;
+}
+
+figurecaption {
+    clear: left
+}
+
+#img-div {
+    background-color: aliceblue;
+}
+
+li {
+    font-family: arial;
+}
+
+ul {
+    width: 400px;
+    text-align: center;
+}
